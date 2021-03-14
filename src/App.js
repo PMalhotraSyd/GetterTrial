@@ -1,6 +1,7 @@
 
 import './styles/App.css';
-import './components/Tinkercard.js'
+import './components/Tindercard.js'
+import Tindercard from './components/Tindercard.js';
 
 
 function App() {
